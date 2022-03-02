@@ -1,4 +1,3 @@
-# robertvlo.github.io
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     
@@ -60,6 +59,9 @@
             <li><a href="#">Link 4</a></li>
             </ul>
     </div>
+    </div>
+    <div id="footer">
+        <p>&copy Wszelkie prawa zastrzeżone. <br /> Projekt: <a href="http://www.templatki.net">Darmowe Szablony Stron</a></p>
     </div>
     </div>
 </body>
