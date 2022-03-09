@@ -48,10 +48,10 @@
         <div id="sidebar_title">Kryptowaluty</div>
             <ul>
             <li><a href="robertvlo.github.io/podstrona1.html">Cordano</a></li>
-            <li><a href="robertvlo.github.io /podstrona2.html">Polkadot</a></li>
-            <li><a href="robertvlo.github.io /podstrona3.html">Basic Attention Token</a></li>
-            <li><a href="robertvlo.github.io /podstrona4.html">IOTA</a></li>
-            <li><a href="robertvlo.github.io /podstrona5.html">Stellar Lumens</a></li>
+            <li><a href="robertvlo.github.io/podstrona2.html">Polkadot</a></li>
+            <li><a href="robertvlo.github.io/podstrona3.html">Basic Attention Token</a></li>
+            <li><a href="robertvlo.github.io/podstrona4.html">IOTA</a></li>
+            <li><a href="robertvlo.github.io/podstrona5.html">Stellar Lumens</a></li>
             </ul>
     </div>
     </div>
