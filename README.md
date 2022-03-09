@@ -26,37 +26,34 @@
       
     <div id="menu">
         <ul>
-        <li><a href="#" class="menu_active">Strona główna</a></li>
-        <li><a href="#">O mnie</a></li>
-        <li><a href="#">Oferta</a></li>
-        <li><a href="#">Kontakt</a></li>
         </ul>
     </div>
     <div id="header">
-        <div id="title_head">Lorem ipsum</div>
+        <div id="title_head"></div>
     </div>
     <div id="container">
     <div id="content">
         <h2>Blockchain</h2>
         <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget tortor vitae purus bibendum ornare at sit amet mauris. Aenean adipiscing velit a        tellus sodales quis commodo metus congue. Cras ac erat eget urna faucibus pellentesque sit amet eget metus. Vestibulum ac hendrerit sapien. Vivamus        consectetur dui at nisi dictum tincidunt ac ut purus. Praesent id ornare velit. Morbi fringilla, justo nec tincidunt hendrerit, mi ante ornare magna,        id sodales dolor erat quis ante. Sed vel adipiscing nisl. Etiam lectus turpis, fermentum quis vehicula at, elementum vitae nibh. Duis at leo eu purus        aliquet rutrum. Phasellus posuere, ante condimentum sagittis venenatis, sem tellus venenatis arcu, ac iaculis quam lorem at urna.
+        Blockchain to architektura przechowywania informacji w sposób gwarantujący niezmienność danych historycznych. Jest to zdecentralizowana (bez centralnych jednostek zarządzających) i rozproszona baza danych lub rejestr transakcji lub zdarzeń, funkcjonujący jako rosnąca lista jednokierunkowa rekordów zwanych blokami, mającymi łącza do bloków poprzednich utworzone z użyciem funkcji kryptograficznych. Powiązanie bloków w łańcuchu, gdzie każdy następny blok przechowuje hasze z informacji z bloku poprzedniego, sprawia, że informacje w blokach są możliwe do zapisywania tylko w trakcie tworzenia bloku i niemożliwe do modyfikacji po upublicznieniu i rozpowszechnieniu bloku.
         </p>
         <h2>WEB 3.0</h2>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget tortor vitae purus bibendum ornare at sit amet mauris. Aenean adipiscing velit a        tellus sodales quis commodo metus congue. Cras ac erat eget urna faucibus pellentesque sit amet eget metus. Vestibulum ac hendrerit sapien. Vivamus        consectetur dui at nisi dictum tincidunt ac ut purus. Praesent id ornare velit. Morbi fringilla, justo nec tincidunt hendrerit, mi ante ornare magna,        id sodales dolor erat quis ante. Sed vel adipiscing nisl. Etiam lectus turpis, fermentum quis vehicula at, elementum vitae nibh. Duis at leo eu purus        aliquet rutrum. Phasellus posuere, ante condimentum sagittis venenatis, sem tellus venenatis arcu, ac iaculis quam lorem at urna.
+        Web 3.0 to następna generacja technologii internetowych, która w dużej mierze opiera się na uczeniu maszynowym, sztucznej inteligencji i technologii blockchain. Ruch ten ma na celu stworzenie otwartych, połączonych, inteligentnych stron internetowych i aplikacji internetowych z ulepszonym, opartym na maszynach, zrozumieniem danych.
         </p>
     </div>
     <div id="sidebar">
-        <div id="sidebar_title">O nas</div>
+        <div id="sidebar_title"></div>
         <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget tortor vitae purus bibendum ornare at sit amet mauris. Aenean adipiscing velit a        tellus sodales quis commodo metus congue. Cras ac erat eget urna faucibus pellentesque sit amet eget metus.
+        Kryptowaluta to rozproszony system księgowy bazujący na kryptografii, przechowujący informację o stanie posiadania w umownych jednostkach. Stan posiadania związany jest z poszczególnymi węzłami systemu („portfelami”) w taki sposób, aby kontrolę nad danym portfelem miał wyłącznie posiadacz odpowiadającego mu klucza prywatnego i niemożliwe było dwukrotne wydanie tej samej jednostki.
         </p>
-        <div id="sidebar_title">Polecam</div>
+        <div id="sidebar_title">Kryptowaluty</div>
             <ul>
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
-            <li><a href="#">Link 4</a></li>
+            <li><a href="podstrona1.html">Cordano</a></li>
+            <li><a href="podstrona2.html">Polkadot</a></li>
+            <li><a href="podstrona3.html">Basic Attention Token</a></li>
+            <li><a href="podstrona4.html">IOTA</a></li>
+            <li><a href="podstrona5.html">Stellar Lumens</a></li>
             </ul>
     </div>
     </div>
